@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse",
+  "description": "All-in-one Wi-Fi scanner, range booster & optimizer, speed test & data cost monitor, local Wi-Fi music player, and multi-device Bluetooth audio hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

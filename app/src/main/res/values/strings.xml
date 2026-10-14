@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetPulse</string>
+    <string name="app_subtitle">Wireless &amp; Bluetooth Hub</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_wifi">Wi-Fi</string>
+    <string name="tab_range">Range &amp; Channels</string>
+    <string name="tab_speed_cost">Speed &amp; Cost</string>
+    <string name="tab_music">Wi-Fi Music</string>
+    <string name="tab_bluetooth">Bluetooth Hub</string>
+</resources>
